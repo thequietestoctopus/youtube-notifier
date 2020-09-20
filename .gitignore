@@ -5,6 +5,7 @@ __pycache__/
 *.DS_STORE
 
 # Files that might appear in the root of a volume
+.apdisk
 .fseventsd
 .Spotlight-V100
 .TemporaryItems
